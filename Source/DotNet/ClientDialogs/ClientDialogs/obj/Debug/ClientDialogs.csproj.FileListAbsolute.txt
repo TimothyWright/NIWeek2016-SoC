@@ -1,0 +1,12 @@
+E:\Files\CTARollupSystem\ClientDialogs\ClientDialogs\bin\Debug\ClientDialogs.dll.config
+E:\Files\CTARollupSystem\ClientDialogs\ClientDialogs\bin\Debug\ClientDialogs.dll
+E:\Files\CTARollupSystem\ClientDialogs\ClientDialogs\bin\Debug\ClientDialogs.pdb
+E:\Files\CTARollupSystem\ClientDialogs\ClientDialogs\obj\Debug\MainWindow.g.cs
+E:\Files\CTARollupSystem\ClientDialogs\ClientDialogs\obj\Debug\ClientDialogs_MarkupCompile.cache
+E:\Files\CTARollupSystem\ClientDialogs\ClientDialogs\obj\Debug\ClientDialogs_MarkupCompile.lref
+E:\Files\CTARollupSystem\ClientDialogs\ClientDialogs\obj\Debug\MainWindow.baml
+E:\Files\CTARollupSystem\ClientDialogs\ClientDialogs\obj\Debug\ClientDialogs.g.resources
+E:\Files\CTARollupSystem\ClientDialogs\ClientDialogs\obj\Debug\ClientDialogs.Properties.Resources.resources
+E:\Files\CTARollupSystem\ClientDialogs\ClientDialogs\obj\Debug\ClientDialogs.csproj.GenerateResource.Cache
+E:\Files\CTARollupSystem\ClientDialogs\ClientDialogs\obj\Debug\ClientDialogs.dll
+E:\Files\CTARollupSystem\ClientDialogs\ClientDialogs\obj\Debug\ClientDialogs.pdb

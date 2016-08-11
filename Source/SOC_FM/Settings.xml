@@ -1,0 +1,49 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>15.0.1f1</Version>
+<Cluster>
+<Name>User Specified</Name>
+<NumElts>6</NumElts>
+<Cluster>
+<Name>Hardware Configuration</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>HW Refnum &lt;Replace Me&gt;</Name>
+<Val></Val>
+</String>
+<EW>
+<Name>Signal Type &lt;Replace Me&gt;</Name>
+<Choice>Sine Wave</Choice>
+<Choice>Square Wave</Choice>
+<Val>0</Val>
+</EW>
+</Cluster>
+<Cluster>
+<Name>Analysis Configuration</Name>
+<NumElts>1</NumElts>
+<Boolean>
+<Name>Statistics</Name>
+<Val>1</Val>
+</Boolean>
+</Cluster>
+<EW>
+<Name>New Data Behavior</Name>
+<Choice>Replace</Choice>
+<Choice>Overlay</Choice>
+<Choice>Append</Choice>
+<Val>1</Val>
+</EW>
+<Path>
+<Name>Calc PPL Path</Name>
+<Val>V:\SepOfConcerns\PPL\MeanLib.lvlibp</Val>
+</Path>
+<String>
+<Name>Calc Plugin Class Qualified Name</Name>
+<Val>MeanLib.lvlibp:Mean.lvclass</Val>
+</String>
+<String>
+<Name>Calc Configuration String</Name>
+<Val></Val>
+</String>
+</Cluster>
+</LVData>
